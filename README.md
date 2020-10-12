@@ -17,12 +17,12 @@
 ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
 
 ## Find me around the internet 💻:
--📚 Sharing professional updates on <a href="https://www.linkedin.com/in/ojeda93/">LinkedIn</a>
--🐣 Joking about my struggles and liking everything at <a href="https://twitter.com/JustMalau/">Twitter</a>
+- 📚 Sharing professional updates on <a href="https://www.linkedin.com/in/ojeda93/">LinkedIn</a>
+- 🐣 Joking about my struggles and liking everything at <a href="https://twitter.com/JustMalau/">Twitter</a>
 
 ### Fun Facts:
--I'm from Argentina 🧉
--I'm a Nutrition degree student
--I play the guitar and piano
+- I'm from Argentina 🧉
+- I'm a Nutrition degree student
+- I play the guitar and piano
 
 ⭐️ From [malauraojeda](https://github.com/malauraojeda)
