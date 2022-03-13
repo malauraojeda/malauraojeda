@@ -1,13 +1,13 @@
-# Hello there!! my name is Ma. Laura 👩🏻‍💻
+# Hello there!! my name is Ma. Laura, and i had been working as a data visualization for almost a year now 👩🏻‍💻
 
-## I'm currently learning about:
+## Still learning about:
 ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 ![C](https://img.shields.io/badge/-C-333333?style=flat&logo=C)
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
 ![MySql](https://img.shields.io/badge/-MySql-333333?style=flat&logo=MySql)
-![GCP](https://img.shields.io/badge/-GoogleCloudPlataform-333333?style=flat&logo=GoogleCloudPlataform)
+![GoogleCloud](https://img.shields.io/badge/-GoogleCloud-333333?style=flat&logo=GoogleCloud)
 
 ## Tools
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
