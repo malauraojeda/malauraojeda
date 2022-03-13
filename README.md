@@ -6,7 +6,8 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-![MySql](https://img.shields.io/badge/-MySql-333333?style=flat&logo=MySql)
+![Sql](https://img.shields.io/badge/-Sql-333333?style=flat&logo=Sql)
+![PowerBI](https://img.shields.io/badge/-PowerBI-333333?style=flat&logo=PowerBI)
 
 ## Tools
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
