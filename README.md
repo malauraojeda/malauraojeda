@@ -7,7 +7,7 @@
 ![C](https://img.shields.io/badge/-C-333333?style=flat&logo=C)
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
 ![MySql](https://img.shields.io/badge/-MySql-333333?style=flat&logo=MySql)
-![GCP](https://img.shields.io/badge/-GCP-333333?style=flat&logo=GCP)
+![GCP](https://img.shields.io/badge/-GoogleCloudPlataform-333333?style=flat&logo=GoogleCloudPlataform)
 
 ## Tools
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
@@ -15,7 +15,7 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 ![PowerBI](https://img.shields.io/badge/-PowerBI-333333?style=flat&logo=PowerBI)
 ![Tableau](https://img.shields.io/badge/-Tableau-333333?style=flat&logo=Tableau)
-![Excel](https://img.shields.io/badge/-Excel-333333?style=flat&logo=Excel)
+![Excel](https://img.shields.io/badge/-MicrosoftExcel-333333?style=flat&logo=MicrosoftExcel)
 ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
 
 ## Find me around the internet 💻:
